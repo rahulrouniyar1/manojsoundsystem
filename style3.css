@@ -1,0 +1,119 @@
+.slimText{
+    font-size: 1.8em;
+}
+
+#name{
+    font-size: 2.3rem;
+}
+.mainbtn{
+    background-color:rgba(123, 97, 255, 1)  ;
+    color: white;
+    padding: 0.6rem 2rem;
+    border: 1px solid rgb(123, 97, 255)  ;
+    border-radius: 0.7rem;
+   
+}
+
+.back{
+    background-color:rgba(123, 97, 255, 1)  ;
+    width: 30vw;
+    margin: 1rem 0.5rem;
+    padding: 0.7rem 0.6rem;
+    color: white;
+    border-radius: 0.7rem;
+}
+.middletext{
+    color: #3B38E8;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+
+#hireme{
+    background-color: aliceblue;
+    border: 1px solid rgba(123, 97, 255, 1) ;
+    color:rgb(123, 97, 255);
+    border-radius: 0.75rem;
+    line-height: 1.5rem;
+    padding:0.3rem 1rem ;
+    align-items: center;
+    font-size: 1.1rem;
+}
+#about{
+    margin: 0.9rem 0rem;
+    float: left;
+    align-items: center;
+}
+
+.skill_icon{
+    width: 6rem;
+    height: 6rem;
+    background-color:#7B61FF;
+    border-radius: 100%;
+    
+
+}
+
+.skill_name{
+    color:rgb(123, 97, 255);
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+body{
+    font: 400 15px Roboto;
+    -webkit-text-size-adjust: 100%;
+    height:100%;
+    color: #333;
+
+letter-spacing: 0;
+-webkit-font-smoothing: subpixel-antialiased;
+-webkit-text-stroke: 1px transparent;
+overflow-x: hidden;
+}
+ul.nav_list_items li{
+    display: inline-block;
+
+}
+
+  .nav_items{
+    display: flex;
+    align-items: center;
+   
+    padding: 0 2rem 0 10rem;
+
+  }
+  .logo{
+    margin-right: auto;
+    display: inline-flex;
+    list-style-type: none;
+   
+  }
+
+    
+  
+  .nav_List_items{
+    list-style-type: none;
+  }
+
+.folder{
+    border:2px solid black;
+    background-color: white;
+    position: sticky;
+}
+.nav_container{
+    position: fixed;
+}
+#inline{
+    right: 4px;
+    display: inline;
+    position: sticky;
+} 
+.debug{
+  padding-top: 30rem;
+}
+
+.nav_container shadow{
+    padding: auto;
+    position: sticky;
+}
